@@ -1,3 +1,4 @@
 Hello.git!
 Update for develop.
-GitHub + Slack 연동 테스트.
+GitHub + Slack Integration Test.
+GitHub + Jenkins Integration Test.
